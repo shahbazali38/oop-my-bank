@@ -1,0 +1,15 @@
+{
+  "name": "shahbaz_ali-oop-my-bank",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^10.0.4"
+  }
+}
